@@ -1,4 +1,4 @@
-# Python Exam
+# Python Elective Exam
 
 Creating the virtual env
 ```bash
