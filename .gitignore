@@ -2,7 +2,7 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=python
 
 # Excluding large file
-11._pynodebook/Police_Department_Incident_Reports__Historical_2003_to_May_2018_20240415.csv
+data_analyze_and_visualization/Police_Department_Incident_Reports__Historical_2003_to_May_2018_20240415.csv
 
 # Excluding created venv
 11._pynodebook/pynodebook-venv/
